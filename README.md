@@ -1,2 +1,1 @@
-# richardyhayashi.github.io
-Richad Y. Hayashi's Website
+# Richad Y. Hayashi's Website
